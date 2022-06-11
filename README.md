@@ -1,2 +1,2 @@
 # LibraryManagement
-Managemet of Libraries : Web + Mobile App f
+Management of Libraries : Web + Mobile App f
